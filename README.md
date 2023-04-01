@@ -25,4 +25,4 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ## Live-Preview
 
-- [Live-Site](https://www.netlify.com/)
+- [Live-Site](https://hilarious-seahorse-f7cb39.netlify.app/)
